@@ -18,7 +18,7 @@ public class Connect {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        String url = "jdbc:sqlserver://localhost:1433;databaseName=kienghi_phananh;encrypt=true;trustServerCertificate=true";
+        String url = "jdbc:sqlserver://localhost:1433;databaseName=kiennghi_phananh;encrypt=true;trustServerCertificate=true";
         String user = "sa";
         String password = "12345";
 
